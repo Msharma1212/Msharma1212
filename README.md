@@ -16,5 +16,5 @@
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Msharma1212&label=Profile%20Views&color=0e75b6&style=flat)
+![Code Views](https://komarev.com/ghpvc/?username=Msharma1212&label=Profile%20Views&color=0e75b6&style=flat)
 
