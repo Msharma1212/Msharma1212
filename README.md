@@ -170,13 +170,13 @@ Passionate about building scalable web applications, intelligent systems, and da
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Msharma1212/Msharma1212/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Msharma1212/Msharma1212/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Msharma1212&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Msharma1212&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true"/>
 </p>
 <!-- FOOTER -->
 <p align="center">
