@@ -170,7 +170,7 @@ Passionate about building scalable web applications, intelligent systems, and da
 ---
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Msharma1212&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/Msharma1212/Msharma1212/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <!-- FOOTER -->
