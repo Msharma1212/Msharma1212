@@ -170,9 +170,8 @@ Passionate about building scalable web applications, intelligent systems, and da
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Msharma1212/Msharma1212/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Msharma1212/Msharma1212/output/ocean.gif" />
 </p>
-
 <!-- FOOTER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
