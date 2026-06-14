@@ -1,5 +1,5 @@
 <!-- Header Animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=180&section=header&text=Hi%20I'm%20Mayank%20Sharma!&fontSize=40&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0F2027&text=Mayank%20Sharma&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Backend%20Engineer%20|%20AI%20Enthusiast%20|%20Data%20Analyst&descAlignY=58&descSize=20)
 
 <!-- Typing Animation -->
 <p align="center">
