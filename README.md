@@ -18,3 +18,6 @@
 ---
 ![Code Views](https://komarev.com/ghpvc/?username=Msharma1212&label=Code%20Views&color=0e75b6&style=flat)
 
+<!-- Footer Animation -->
+![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120)
+
