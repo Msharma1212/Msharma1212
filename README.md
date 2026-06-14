@@ -38,6 +38,15 @@ Passionate about building scalable web applications, intelligent systems, and da
 <img src="https://streak-stats.demolab.com?user=Msharma1212&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Msharma1212/Msharma1212/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Msharma1212&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true"/>
+</p>
 ---
 
 # 💻 Tech Stack
@@ -169,15 +178,6 @@ Passionate about building scalable web applications, intelligent systems, and da
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Msharma1212/Msharma1212/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Msharma1212&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true"/>
-</p>
 <!-- FOOTER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
