@@ -1,31 +1,179 @@
-<!-- Header Animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0F2027&text=Mayank%20Sharma&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Backend%20Engineer%20|%20AI%20Enthusiast%20|%20Data%20Analyst&descAlignY=58&descSize=20)
-
-<!-- Typing Animation -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=38F9D7&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer+%7C+Backend+Engineer;🤖+AI+Enthusiast+%7C+AI+Agents+%7C+LLMs;📊+Data+Analyst+%7C+Python+%7C+Power+BI;⚡+Building+Scalable+%26+Intelligent+Applications;💡+Transforming+Ideas+Into+Impactful+Products" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Mayank%20Sharma&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Backend%20Engineer%20|%20AI%20Enthusiast%20|%20Data%20Analyst&descAlignY=58&descSize=20"/>
 </p>
 
-# 👋 Hi, I'm Mayank Sharma<br><br>  🚀 Full-Stack Developer | AI Enthusiast | Data Analyst | Backend Engineer<br><br>### Building Scalable Applications, Intelligent Systems & Data-Driven Solutions<br><br><img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>Passionate about building scalable web applications, real-time systems, AI-powered products, and extracting meaningful insights from data.<br><br>💡 I enjoy transforming ideas into production-grade products, solving complex engineering problems, and leveraging AI & data to create impactful solutions.<br><br>---<br><br>
+<!-- TYPING -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer+%7C+Backend+Engineer;🤖+Building+AI-Powered+Applications;📊+Data+Analyst+%7C+Python+%7C+Power+BI;⚡+Scalable+Backend+Systems+%26+Real-Time+Applications;💡+Transforming+Ideas+Into+Impactful+Products"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__itzz_mayank__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharma-mayank1212/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Msharma1212&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Msharma1212&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Msharma1212&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 🚀 About Me<br><br>🔭 **Currently Working On**<br><br>* 🍽️ SmartServe AI Cloud Kitchen OS<br>* 🤖 AI-powered Applications<br>* ⚡ Scalable Backend Systems<br>* 📊 Data Analytics & Visualization<br>* ☁️ Cloud & DevOps Technologies<br><br>🌱 **Currently Learning**<br><br>* System Design<br>* Docker & AWS<br>* PostgreSQL Optimization<br>* AI Agents & LLM Applications<br>* LangChain & RAG<br>* Machine Learning Fundamentals<br>* Power BI & Data Visualization<br>* Microservices Architecture<br><br>👯 **Looking to Collaborate On**<br><br>* Open Source Projects<br>* SaaS Products<br>* AI Applications<br>* Data Analytics Projects<br>* Full-Stack Web Applications<br><br>⚡ **Fun Fact**<br><br>I genuinely enjoy debugging systems, optimizing architectures, and uncovering insights from data to solve real-world problems.<br><br>---<br><br># 💻 Tech Stack<br><br>### Frontend<br><br>React.js • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS<br><br>### Backend<br><br>Node.js • Express.js • REST APIs • Socket.io • JWT Authentication<br><br>### Databases<br><br>MongoDB • PostgreSQL • MySQL • Firebase • Supabase<br><br>### Languages<br><br>JavaScript • TypeScript • Python • SQL • C++<br><br>### Data Analytics<br><br>Python • SQL • Pandas • NumPy • Matplotlib • Power BI • Data Cleaning • Exploratory Data Analysis • Data Visualization<br><br>### AI & Emerging Technologies<br><br>Artificial Intelligence • AI Agents • OpenAI APIs • Prompt Engineering • LLM Applications • RAG • Automation<br><br>### Tools<br><br>Git • GitHub • VS Code • Postman • Render • Vercel<br><br>---<br><br> # 🏅 Certifications<br><br>🏆 Deloitte Australia Data Analytics Job Simulation (Forage)<br><br>🤖 Artificial Intelligence Primer Certification<br><br>⚡ Energy IQ Challenge – National Level Quiz Competition<br><br>---<br><br># 📚 Currently Exploring<br><br>* System Design<br>* Docker<br>* AWS<br>* Microservices<br>* AI Agents<br>* LangChain<br>* RAG Applications<br>* Vector Databases<br>* Machine Learning<br>* Power BI<br>* Data Visualization<br>* Scalable Architectures<br><br>---<br><br># 🎯 2026 Goals<br><br>✅ Master Backend Development<br><br>✅ Become Proficient in Data Analytics<br><br>✅ Build AI SaaS Products<br><br>✅ Learn Cloud & DevOps<br><br>✅ Solve 500+ DSA Problems<br><br>✅ Contribute to Open Source<br><br>✅ Land an SDE / Full-Stack / AI Engineer / Data Analyst Role<br><br>---<br><br># ✨ Philosophy<br><br>> "Code creates products, data reveals insights, and AI amplifies possibilities."<br><br>### 🚀 Building scalable products, exploring AI, and transforming ideas into impactful solutions.<br>
-
-
-
+<!-- PROFILE VIEWS -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Msharma1212&label=Code%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
-![Code Views](https://komarev.com/ghpvc/?username=Msharma1212&label=Code%20Views&color=0e75b6&style=flat)
 
-<!-- Footer Animation -->
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120)
+# 👋 Hi, I'm Mayank Sharma
 
+### 🚀 Full-Stack Developer | Backend Engineer | AI Enthusiast | Data Analyst
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+Passionate about building scalable web applications, intelligent systems, and data-driven solutions.
+
+💡 I enjoy transforming ideas into production-grade products, solving engineering challenges, and leveraging AI & analytics to create impactful experiences.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Msharma1212&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msharma1212&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Msharma1212&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## ⚛️ Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io"/>
+<img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=plastic"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white"/>
+</p>
+
+## 🤖 AI & Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F61?style=plastic"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=plastic"/>
+<img src="https://img.shields.io/badge/AI_Agents-00C4CC?style=plastic"/>
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-black?style=plastic&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:kmayank122004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sharma-mayank1212/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/__itzz_mayank__/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🍽️ Building **SmartServe AI Cloud Kitchen OS**
+- ⚡ Creating Scalable Backend Systems
+- 🤖 Exploring AI Applications & Automation
+- 📊 Working with Data Analytics & Visualization
+- ☁️ Learning Cloud & DevOps Technologies
+- 🧠 Passionate about System Design & Software Architecture
+
+---
+
+# 🏆 Certifications
+
+🏆 Deloitte Australia Data Analytics Job Simulation (Forage)
+
+🤖 Artificial Intelligence Primer Certification
+
+⚡ Energy IQ Challenge – National Level Quiz Competition
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Backend Development
+
+✅ Become Proficient in Data Analytics
+
+✅ Build AI SaaS Products
+
+✅ Learn Cloud & DevOps
+
+✅ Solve 500+ DSA Problems
+
+✅ Contribute to Open Source
+
+✅ Land an SDE / Full-Stack / AI Engineer / Data Analyst Role
+
+---
+
+# ✨ Philosophy
+
+> **"Code creates products, data reveals insights, and AI amplifies possibilities."**
+
+### 🚀 Building scalable products, exploring AI, and transforming ideas into impactful solutions.
+
+---
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Msharma1212&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+</p>
