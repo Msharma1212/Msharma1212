@@ -1,11 +1,9 @@
 <!-- Header Animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=180&section=header&text=Hi%20I'm%20Mayank%20Sharma!&fontSize=35&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=180&section=header&text=Hi%20I'm%20Mayank%20Sharma!&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/vishal93990">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=👨‍💻+MERN+Stack+Developer;🚀+Building+AI+Web+Tools;💡+Lifelong+Learner+%26+Coder" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=38F9D7&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+Developer+%7C+Backend+Engineer;🤖+AI+Enthusiast+%7C+AI+Agents+%7C+LLMs;📊+Data+Analyst+%7C+Python+%7C+Power+BI;⚡+Building+Scalable+%26+Intelligent+Applications;💡+Transforming+Ideas+Into+Impactful+Products" />
 </p>
 
 # 👋 Hi, I'm Mayank Sharma<br><br>  🚀 Full-Stack Developer | AI Enthusiast | Data Analyst | Backend Engineer<br><br>### Building Scalable Applications, Intelligent Systems & Data-Driven Solutions<br><br><img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>Passionate about building scalable web applications, real-time systems, AI-powered products, and extracting meaningful insights from data.<br><br>💡 I enjoy transforming ideas into production-grade products, solving complex engineering problems, and leveraging AI & data to create impactful solutions.<br><br>---<br><br>
