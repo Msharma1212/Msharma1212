@@ -10,7 +10,7 @@
 
 <!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Msharma1212&label=PROFILE+VISITORS&style=for-the-badge&color=0D1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Msharma1212&label=PROFILE+VISITORS&style=for-the-badge&color=FFD700"/>
 </p>
 ---
 
