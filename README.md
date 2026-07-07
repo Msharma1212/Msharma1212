@@ -46,7 +46,6 @@ Passionate about building scalable web applications, intelligent systems, and da
 <p align="center">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Msharma1212&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true"/>
 </p>
----
 
 # 💻 Tech Stack
 
