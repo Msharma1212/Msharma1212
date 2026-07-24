@@ -148,7 +148,7 @@ Passionate about building scalable web applications, intelligent systems, and da
 
 ⚡ Energy IQ Challenge – National Level Quiz Competition
 
----
+----
 
 # 🎯 2026 Goals
 
