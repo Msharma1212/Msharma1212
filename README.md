@@ -166,7 +166,7 @@ Passionate about building scalable web applications, intelligent systems, and da
 
 ✅ Land an SDE / Full-Stack / AI Engineer / Data Analyst Role
 
----
+----
 
 # ✨ Philosophy
 
