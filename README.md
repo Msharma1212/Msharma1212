@@ -109,7 +109,7 @@ Passionate about building scalable web applications, intelligent systems, and da
 <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white"/>
 </p>
 
----
+----
 
 # 🌐 Connect With Me
 
